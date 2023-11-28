@@ -9,7 +9,7 @@ import axios from 'axios'
 global.owner = [
   ['254704606054', 'ꜱᴀɴᴛᴏꜱ-ᴋᴇ', true]
 
-//global.pairingNumber = "254704606054"
+//global.pairingNumber = ""
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
